@@ -29,3 +29,6 @@ public class Synchronous {
 	
 
 }
+
+
+// https://velog.io/@cjllee/%EB%8F%99%EA%B8%B0%ED%98%95-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4  (자세한 설명 링크)
