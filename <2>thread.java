@@ -46,3 +46,6 @@ public class thread {
 	
 
 }
+
+// 블로그 정리 링크 
+// https://velog.io/@cjllee/%EC%9E%90%EB%B0%94-%EC%8A%A4%EB%A0%88%EB%93%9C%EC%9D%98-%EB%B9%84%EB%8F%99%EA%B8%B0%EC%B2%98%EB%A6%AC
