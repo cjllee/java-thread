@@ -55,3 +55,6 @@ public class name {
 	
 
 }
+
+// 블로그 추가설명 링크
+//https://velog.io/@cjllee/Thread-%EC%8B%9D%EB%B3%84-%EC%86%8D%EC%84%B1
