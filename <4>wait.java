@@ -23,16 +23,16 @@ public class wait {
 		Thread th1 = new Thread(subMain);
 		th1.setName("sub1");
 		
-		System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
+		System.out.printf(" %s : %s\n", th1.getName(), th1.getState()); // 시작전 상태 출력
 		
         th1.start();
         
-        System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
+        System.out.printf(" %s : %s\n", th1.getName(), th1.getState()); // 시작후 상탱 출력
 
 		
-		
-		//print();
-		
+         System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
+         System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
+         System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
 		 System.out.printf(" %s : %s\n", th1.getName(), th1.getState());
 		 
 		 if(th1.isAlive())
@@ -42,7 +42,7 @@ public class wait {
 				e.printStackTrace();
 			}
 
-		System.out.println("============ Main Exit =================");
+		System.out.println("============ Main Exit ================="); // main 끝남
 	}
 	
 	public static void print() {
