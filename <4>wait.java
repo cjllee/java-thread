@@ -73,3 +73,7 @@ public class wait {
 	
 
 }
+
+
+//추가설명 블로그 링크
+// https://velog.io/@cjllee/Thread-state
